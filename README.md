@@ -1,4 +1,4 @@
-# I'm Phewrine Atieno
+# Hi 👋 I'm Phewrine Atieno
 
 👩🏽‍💻 Software Developer | IT Professional  
 🌍 Based in Kenya  
@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, Python, PHP  
 - **Frontend:** React, React Native, Next.js  
-- **Backend:** Laravel, Node.js  
+- **Backend:** Laravel, Node.js  ,REST APIs
 - **Databases:** MySQL  
 - **Other Skills:** UI/UX Design, Cybersecurity Basics, AWS, AI Agents  
 - **Tools:** Git, GitHub, Figma, VS Code,Canva
